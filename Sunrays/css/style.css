@@ -1,0 +1,58 @@
+body{
+	background-color:#D25B70;
+	width: 400px;
+	height: 300px;
+}
+.css-battle-container {
+	width: 400px;
+	height: 300px;
+	position: relative;
+}
+div {
+	width: 10px;
+	height: 100px;
+	background: #F2E09F;
+	border-radius: 35px
+}
+div:first-of-type{
+	transform:rotate(90deg);
+	position:absolute;
+	top:50%;
+	left:66%;
+}
+div:nth-of-type(2) {
+	transform:rotate(60deg);
+	position:absolute;
+	top:38%;
+	left:64%;
+}
+div:nth-of-type(3) {
+	transform:rotate(30deg);
+	position:absolute;
+	top:30%;
+	left:57.5%;
+}
+div:nth-of-type(4) {
+	transform:rotate(0deg);
+	position:absolute;
+	top:26.5%;
+	left:48.5%;
+}
+div:nth-of-type(5) {
+	transform:rotate(-30deg);
+	position:absolute;
+	top:29.5%;
+	left:39.5%;
+}
+div:nth-of-type(6) {
+	transform:rotate(-60deg);
+	position:absolute;
+	top:38.5%;
+	left:33.5%;
+}
+div:last-of-type {
+	transform:rotate(-90deg);
+	position:absolute;
+	top:50%;
+	left:31.5%;
+}
