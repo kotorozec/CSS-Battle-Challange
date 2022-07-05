@@ -1,0 +1,50 @@
+body {
+	background-color: #6cb3a9;
+}
+/* Element styling */
+.rectangle {
+	width: 175px;
+	height: 25px;
+	background: #781728;
+}
+.center-circle {
+	width: 50px;
+	height: 50px;
+	background-color: #f6df96;
+	border-radius: 50%;
+	border: 10px solid #781728;
+	z-index: 30;
+}
+.top-circle,
+.bottom-circle {
+	width: 195px;
+	height: 95px;
+}
+.top-circle {
+	background-color: #d25b70;
+	border-radius: 95px 95px 0px 0px;
+}
+.bottom-circle {
+	background-color: #ffffff;
+	border-radius: 0px 0px 95px 95px;
+}
+/* Position */
+.rectangle,
+.center-circle {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.top-circle {
+	position: absolute;
+	top: 43%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.bottom-circle {
+	position: absolute;
+	top: 57%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
