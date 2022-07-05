@@ -1,0 +1,32 @@
+body {
+	background-color: #f3ac3c;
+}
+.css-battle-container {
+	height: 300px;
+	width: 400px;
+	position: relative;
+}
+div {
+	width: 80px;
+	height: 80px;
+	background: #254241;
+	border-radius: 50% 50% 50% 2% / 50% 50% 50% 50%;
+}
+div:first-child {
+	position: absolute;
+	top: 13.5%;
+	left: 40%;
+	transform: rotate(-45deg);
+}
+div:nth-child(2) {
+	position: absolute;
+	top: 60%;
+	left: 40%;
+	transform: rotate(135deg);
+}
+div:last-child {
+	position: absolute;
+	top: 36.5%;
+	left: 20%;
+	transform: rotate(-135deg);
+}
