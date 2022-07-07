@@ -1,0 +1,15 @@
+.css-battle-container {
+	width: 400px;
+	height: 300px;
+	position: relative;
+	background-color: #5776f6;
+}
+div {
+	position: absolute;
+	top: 15%;
+	left: 0;
+	width: 100%;
+	height: 250px;
+	background: #191919;
+	clip-path: polygon(evenodd, 0% 32%, 100% 22%, 100% 62%, 0% 52%);
+}
