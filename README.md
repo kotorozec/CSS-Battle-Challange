@@ -11,6 +11,7 @@ Simple CSS project done in free time
 -   [Black Light](https://cssbattle.dev/play/113)
 -   [Web Maker Logo](https://cssbattle.dev/play/14)
 -   [Oddo logo](https://cssbattle.dev/play/81)
+-   [Diamond Cut](https://cssbattle.dev/play/82)
 
 #### Imporant
 
