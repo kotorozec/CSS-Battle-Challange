@@ -10,3 +10,8 @@ Simple CSS project done in free time
 -   [Rain Drops](https://cssbattle.dev/play/111)
 -   [Black Light](https://cssbattle.dev/play/113)
 -   [Web Maker Logo](https://cssbattle.dev/play/14)
+-   [Oddo logo](https://cssbattle.dev/play/81)
+
+#### Imporant
+
+Sometimes used ` <section> </section>` - battle css dimensions are rigidly.
