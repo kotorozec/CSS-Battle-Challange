@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #191919;
+}
+.css-container {
+	height: 300px;
+	width: 400px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+div {
+	width: 40px;
+	height: 40px;
+	background-color: #191919;
+	margin: 9px 0 0 0;
+	border-radius: 50%;
+	border: 21px solid #8f8f8f;
+}
+div:first-of-type {
+	border-color: #714b67;
+}
+div:nth-of-type(2)::after {
+	content: '';
+	width: 20px;
+	height: 70px;
+	position: absolute;
+	top: 102px;
+	left: 179px;
+	border-radius: 100vw;
+	background-color: #8f8f8f;
+}
