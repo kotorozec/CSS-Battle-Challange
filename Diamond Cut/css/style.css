@@ -1,0 +1,33 @@
+body {
+	background-color: #f3ac3c;
+}
+div {
+	position: relative;
+	width: 30px;
+	height: 30px;
+	margin: 135px auto;
+	background: #1a4341;
+	box-shadow: 0 0 0 35px #f3ac3c, 0 0 0 65px #998235;
+	transform: rotate(45deg);
+}
+div::before,
+div::after {
+	content: '';
+	width: 30px;
+	height: 40px;
+	background: #f3ac3c;
+	position: absolute;
+}
+div::after {
+	top: -66px;
+}
+
+div::before {
+	transform: rotate(90deg);
+	left: -69px;
+	top: -6px;
+}
+
+#sp-notification-wrapper {
+	display: none;
+}
