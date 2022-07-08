@@ -1,0 +1,39 @@
+body {
+	background-color: #191919;
+}
+div {
+	width: 400px;
+	height: 40px;
+	background: #fe5f55;
+	border-radius: 100vw;
+	position: absolute;
+}
+/* Delete this section in css battle */
+section {
+	position: relative;
+	left: 40%;
+	top: 300px;
+	height: 100%;
+}
+.first-line {
+	top: 130px;
+	background-color: #a64942;
+}
+.first-line-first {
+	left: -220px;
+}
+.first-line-second {
+	left: 220px;
+}
+.second-line {
+	transform: rotate(90deg);
+	left: 0px;
+}
+.second-line-first {
+	left: 0px;
+	top: -90px;
+}
+.second-line-second {
+	top: 350px;
+	left: 0px;
+}
