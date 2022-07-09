@@ -1,0 +1,26 @@
+body {
+	background-color:#D25B70;
+}
+.first-square {
+	position:relative;
+	background-color:#F7F3DA;
+	margin:150px auto;
+	width:100px;
+	height:100px;
+}
+
+.first {
+	width:60%;
+	aspect-ratio:1;
+	background-color:#6CB3A9;
+	transform:translate(-35px, -72px) rotate(37deg);
+}
+.second{
+	position:absolute;
+	top:0;
+	right:0;
+	width:80%;
+	aspect-ratio:1;
+	background-color:#F6DF96;
+	transform:translate(32px, -96px) rotate(37deg);
+}
