@@ -1,0 +1,21 @@
+body {
+	background-color: #172d2c;
+}
+.square {
+	background-color: #e9af53;
+	position: fixed;
+	top: 85px;
+	left: 20px;
+	width: 180px;
+	height: 195px;
+	clip-path: polygon(0 0, 100% 33.5%, 100% 100%, 0 66.6%);
+}
+.triangle {
+	position: fixed;
+	top: 20px;
+	left: 200px;
+	width: 180px;
+	height: 130px;
+	background-color: #e9af53;
+	clip-path: polygon(0 0, 100% 50%, 0 100%);
+}
