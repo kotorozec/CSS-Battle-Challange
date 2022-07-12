@@ -14,6 +14,7 @@ Simple CSS project done in free time
 -   [Diamond Cut](https://cssbattle.dev/play/82)
 -   [Pythagoras](https://cssbattle.dev/play/84)
 -   [Negative Box](https://cssbattle.dev/play/114)
+-   [Ripples](https://cssbattle.dev/play/94)
 
 #### Imporant
 
