@@ -1,0 +1,22 @@
+section {
+	width: 400px;
+	height: 300px;
+	position: relative;
+	background: #0e2e2c;
+}
+div {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	background: #f3ac3c;
+	border-radius: 50%;
+	left: 180px;
+	top: 130px;
+	color: #0e2e2c;
+	box-shadow: 0 0px 0px 8px, 0 0px 0px 20px #f3ac3c, 0 0px 0px 30px, 0 0px 0px 40px #998235, 0 0 0 52px,
+		0 0 0 60px #f3ac3c, 0 0 0 74px, 0 0 0 80px #f3ac3c;
+}
+
+#sp-notification-wrapper {
+	display: none;
+}
