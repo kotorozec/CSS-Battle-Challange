@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+}
+body {
+	background-color: #191919;
+	display: flex;
+	justify-content: center;
+	margin-top: 170px;
+	height: 100%;
+	gap: 20px;
+}
+.note-circle {
+	width: 50px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: #fe5f55;
+	position: relative;
+}
+.first {
+	margin-left: -30px;
+}
+.third {
+	background-color: #a64942;
+}
+.line-up {
+	position: absolute;
+	width: 10px;
+	height: 100px;
+	background-color: inherit;
+	bottom: 20px;
+	left: 40px;
+}
+.line-vertical {
+	position: absolute;
+	top: -80px;
+	right: -30px;
+	background-color: inherit;
+	height: 10px;
+	width: 30px;
+}
+.long {
+	width: 60px;
+	right: -60px;
+}
+.bottom {
+	position: absolute;
+	top: -60px;
+}
