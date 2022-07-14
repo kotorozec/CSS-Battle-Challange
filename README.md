@@ -4,6 +4,7 @@ Simple CSS project done in free time
 
 ### List of challanges
 
+-   [Acid Rain](https://cssbattle.dev/play/5)
 -   [Black Light](https://cssbattle.dev/play/113)
 -   [Curtain](https://cssbattle.dev/play/109)
 -   [Diamond Cut](https://cssbattle.dev/play/82)
