@@ -11,6 +11,7 @@ Simple CSS project done in free time
 -   [Droplet](https://cssbattle.dev/play/115)
 -   [Gift Box](https://cssbattle.dev/play/99)
 -   [Junction](https://cssbattle.dev/play/84)
+-   [Missing Slice](https://cssbattle.dev/play/6)
 -   [Negative Box](https://cssbattle.dev/play/114)
 -   [Notes](https://cssbattle.dev/play/77)
 -   [Odoo](https://cssbattle.dev/play/81)
