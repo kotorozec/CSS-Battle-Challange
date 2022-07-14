@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+}
+body {
+	position: relative;
+	background-color: #e3516e;
+}
+.chart {
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background: #dd6b4d;
+	border-radius: 50%;
+	background: conic-gradient(#fade8b 25%, #e3516e 0 50%, #f7f3d7 0 75%, #51b5a9 75%);
+}
