@@ -11,6 +11,7 @@ Simple CSS project done in free time
 -   [Gift Box](https://cssbattle.dev/play/99)
 -   [Junction](https://cssbattle.dev/play/84)
 -   [Negative Box](https://cssbattle.dev/play/114)
+-   [Notes](https://cssbattle.dev/play/77)
 -   [Odoo](https://cssbattle.dev/play/81)
 -   [Pokeball](https://cssbattle.dev/play/95)
 -   [Pythagoras](https://cssbattle.dev/play/85)
