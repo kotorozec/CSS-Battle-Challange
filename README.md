@@ -18,6 +18,7 @@ Simple CSS project done in free time
 -   [Rain Drops](https://cssbattle.dev/play/111)
 -   [Ripples](https://cssbattle.dev/play/94)
 -   [Sunrays](https://cssbattle.dev/play/110)
+-   [Ups n Down](https://cssbattle.dev/play/4)
 -   [Web Maker Logo](https://cssbattle.dev/play/14)
 
 #### Imporant
