@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+}
+
+div {
+	position: absolute;
+}
+.first-element {
+	top: 150px;
+	left: 20px;
+	width: 380px;
+	height: 150px;
+	background: #c36271;
+	border-top-left-radius: 100px;
+}
+.second-element {
+	top: 0px;
+	right: 0px;
+	width: 200px;
+	height: 200px;
+	background: #c36271;
+}
+.third-element {
+	top: 0px;
+	right: 20px;
+	width: 200px;
+	height: 150px;
+	background: #f2e09f;
+	border-bottom-right-radius: 100px;
+}
+.fourth-element {
+	top: 100px;
+	right: 150px;
+	width: 100px;
+	height: 100px;
+	background: #c36271;
+	border-radius: 50px;
+	background: linear-gradient(180deg, #c36271 50%, #f2e09f 50%);
+}
+
+.position-section {
+	position: relative;
+	width: 400px;
+	height: 300px;
+	background: #f2e09f;
+}
