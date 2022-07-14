@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+}
+body {
+	position: relative;
+	top: 75px;
+	left: 175px;
+	background-color: #0b2429;
+}
+div {
+	width: 150px;
+	height: 150px;
+	background: #dd6b4d;
+	border-radius: 100px 0 100px;
+	background-color: #f3ac3c;
+	box-shadow: -50px 0 #998235, -100px 0 #1a4341;
+}
