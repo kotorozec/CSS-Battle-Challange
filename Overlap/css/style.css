@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+}
+body {
+	background-color: #09042a;
+}
+.first-circle {
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 150px;
+	height: 150px;
+	background: #7b3f61;
+	border-radius: 50%;
+}
+.second-circle {
+	position: absolute;
+	top: 75px;
+	left: 175px;
+	width: 150px;
+	height: 150px;
+	background: #e78481;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.third-circle {
+	content: '';
+	position: absolute;
+	top: 0px;
+	left: -100px;
+	width: 150px;
+	height: 150px;
+	background: #09042a;
+	border-radius: 50%;
+}
