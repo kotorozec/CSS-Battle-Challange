@@ -1,0 +1,28 @@
+
+body {
+    background-color: #0B2429;
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 200px;
+    background: #998235;
+    border-radius: 100px 0 100px;
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+div::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+    background: #0B2429;
+    border-radius: 50%;
+    box-shadow: 0 0 0 45px #F3AC3C, 0 0 0 65px #0B2429, 0 0 0 75px #998235;
+}
