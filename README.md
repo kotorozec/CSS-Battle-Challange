@@ -6,6 +6,7 @@ Simple CSS project done in free time
 
 -   [Acid Rain](https://cssbattle.dev/play/5)
 -   [Black Light](https://cssbattle.dev/play/113)
+-   [Boxception](https://cssbattle.dev/play/23)
 -   [Cloud](https://cssbattle.dev/play/22)
 -   [Cloaked Spirits](https://cssbattle.dev/play/10)
 -   [Curtain](https://cssbattle.dev/play/109)
