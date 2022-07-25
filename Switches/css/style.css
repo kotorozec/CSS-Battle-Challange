@@ -1,0 +1,49 @@
+body{
+	background-color:#62306D;
+}
+div {
+	width: 100px;
+	height: 141px;
+	background: #dd6b4d;
+	border-radius: 100px;
+	position:relative;
+}
+
+div::before {
+	content:'';
+	width:100px;
+	aspect-ratio:1;
+	position:absolute;
+	border-radius:50%;
+	top:-9px;
+	left:0;
+	background-color:#F7EC7D;
+	/*switch hover property*/
+	transition:0.5s;
+	transition-property:top;
+	cursor: pointer;
+}
+
+div:first-of-type::before{
+	top:51px;
+}
+
+.first-switch{
+	top:41px;
+	left:72px;
+	background-color:#AA445F;
+}
+
+.second-switch {
+	top:-40px;
+	left:212px;
+	background-color:#E38F66;}
+
+/*Add hovers on switch*/
+div:first-of-type:hover::before {
+	top:0;
+}
+
+div:nth-of-type(2):hover::before {
+	top:50px;
+}
