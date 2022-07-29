@@ -6,6 +6,7 @@ Simple CSS project done in free time
 
 - [Acid Rain](https://cssbattle.dev/play/5)
 - [Band Aid](https://cssbattle.dev/play/32)
+- [Birdie](https://cssbattle.dev/play/33)
 - [Black Light](https://cssbattle.dev/play/113)
 - [Boxception](https://cssbattle.dev/play/23)
 - [Cloud](https://cssbattle.dev/play/22)
