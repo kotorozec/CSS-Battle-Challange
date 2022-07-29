@@ -1,0 +1,27 @@
+*{
+	margin:0;
+}
+
+body{
+	background-color:#AA445F;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:300px;
+}
+div {
+	width: 250px;
+	height: 200px;
+	background-image:conic-gradient(#E38F66 180deg, #F7EC7D 180deg);
+	border-radius:200px;
+	position:relative;
+}
+div::before {
+	content:'';
+	height: 200px;
+	width:50px;
+	background-color:#AA445F;
+	position:absolute;
+	top:0;
+	left:100px
+}
