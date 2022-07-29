@@ -9,6 +9,7 @@ Simple CSS project done in free time
 - [Birdie](https://cssbattle.dev/play/33)
 - [Black Light](https://cssbattle.dev/play/113)
 - [Boxception](https://cssbattle.dev/play/23)
+- [Christmas Tree](https://cssbattle.dev/play/34)
 - [Cloud](https://cssbattle.dev/play/22)
 - [Cloaked Spirits](https://cssbattle.dev/play/10)
 - [Curtain](https://cssbattle.dev/play/109)
