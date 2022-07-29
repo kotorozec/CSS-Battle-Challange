@@ -13,6 +13,7 @@ Simple CSS project done in free time
 - [Curtain](https://cssbattle.dev/play/109)
 - [Diamond Cut](https://cssbattle.dev/play/82)
 - [Droplet](https://cssbattle.dev/play/115)
+- [Equals](https://cssbattle.dev/play/31)
 - [Eye of the Tiger](https://cssbattle.dev/play/16)
 - [Gift Box](https://cssbattle.dev/play/99)
 - [Forking Crazy](https://cssbattle.dev/play/8)
